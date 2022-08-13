@@ -1,0 +1,21 @@
+{
+  "type":"module",
+  "name": "meu-acervo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmvnew/meu-acervo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmvnew/meu-acervo/issues"
+  },
+  "homepage": "https://github.com/rmvnew/meu-acervo#readme"
+}
